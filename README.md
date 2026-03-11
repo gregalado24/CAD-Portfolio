@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <img src="https://komarev.com/ghpvc/?username=Jose-Rodriguez-22&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=gregalado24&style=flat-square&color=blue" alt=""/>
       </p>
 </div>
 
@@ -22,7 +22,7 @@
    
 <h1>
    
-<h2 align="center">Mechanical Design Engineer | Parametric CAD | Mechanism Simulation | Additive Manufacturing</h2>
+<h2 align="center">Mechanical Designer | Virtual Environment Modeller | 3-D Asset Designer | Additive Manufacturing</h2>
 
 <p align="center">
 Research Assistant | Additive Manufacturing | Parametric CAD | FEA
