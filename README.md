@@ -2,10 +2,7 @@
   <p align="center">
 3-D Modelling Portfolio
   <h1>
-   <p align="center">
-     I'm Gregory Regalado-Jimenez
-     <h2>
-  <img src="https://raw.githubusercontent.com/Jose-Rodriguez-22/profile1/main/github-header-banner.png" width="100%">
+  <img src="githubbanner.png" width="100%">
 </p>
 
 <div id="badges">
