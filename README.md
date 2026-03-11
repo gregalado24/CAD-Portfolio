@@ -25,7 +25,7 @@
 <h2 align="center">Mechanical Designer | Virtual Environment Modeler | 3-D Asset Designer </h2>
 
 <p align="center">
-Level Designer and World Builder | Additive Manufacturing | Parametric CAD | FEA
+Custom Parts | Level Design and World Building | Asset Creation
 </p>
 
 ---
