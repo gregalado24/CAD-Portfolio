@@ -8,7 +8,7 @@
 <div id="badges">
    <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30px"/>
-  <a href="https://www.linkedin.com/in/jose-m-rodriguez-/">
+  <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <img src="https://komarev.com/ghpvc/?username=Jose-Rodriguez-22&style=flat-square&color=blue" alt=""/>
