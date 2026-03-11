@@ -31,20 +31,21 @@ Custom Parts | Level Design and World Building | Asset Creation
 ---
    
 ## 🚀 About Me
-   - 🔭 _I am an engineering student and Research Assistant at **The University of Texas at Dallas** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- Aerospace structural design -
- Wire Arc Additive Manufacturing (WAAM) -
- Laser Powder Bed Fusion (LPBF) -
- Simulation-driven optimization (ANSYS) -
- Parametric CAD systems (Creo, SolidWorks, Inventor)
+   - 🔭 _I'm an Indie Game Developer and Game Design student at **Dallas College** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p align="center">
+ Unreal Engine 4 & 5 -
+ Blender -
+ Godot -
+ Unity -
+ Parametric CAD (Autodesk Inventor)
 
-My portfolio demonstrates experience in parametric CAD modeling, mechanism design, motion simulation, and engineering analysis using PTC Creo and ANSYS.
+My portfolio demonstrates knowledge in parametric CAD modeling and asset creation using game engines and blender
 
 ## 📬 Contact
 📍 Dallas, Texas  
 📫 Here is my contact information: 
-         -  📧jmr180004@utdallas.edu
-         - [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-rodriguez-/) 
+         -  📧e3363384@student.dcccd.edu
+         - [![Linkedin Badge](www.linkedin.com/in/gregory-regalado-jimenez-098772260)]
    
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" height="200"/>
