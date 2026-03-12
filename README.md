@@ -164,6 +164,9 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 </a>
 
 </td>
+</tr>
+
+<tr>
 
 <td align="center">
 
@@ -173,9 +176,6 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 </a>
 
 </td>
-</tr>
-
-<tr>
 
 <td align="center">
 
@@ -193,6 +193,9 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td align="center">
 
 <b>Game: 'Multi Uni Deliveri' </b><br>
@@ -213,6 +216,11 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 </a>
 
 </td>
+
+<td align="center">
+
+<b>Wind Turbine Parts</b><br>
+
 
 </tr>
 </table>
