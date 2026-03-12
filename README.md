@@ -188,8 +188,8 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 <td align="center">
 
 <b>On-site-Manufacturing Bracket</b><br>
-<a href="https://github.com/Jose-Rodriguez-22/-On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM">
-<img src="https://github.com/Jose-Rodriguez-22/-On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM/blob/main/images/bracket%20AM/total%20deformation%20side.png" width="220">
+<a href="https://github.com/gregalado24/Repair-of-Steel-Bracket.git">
+<img src="https://github.com/gregalado24/Repair-of-Steel-Bracket/blob/7a2f016cdf3254d325407a66e818068ae51b8075/Images/Bracket%20AM/total%20deformation%20side.png" width="220">
 </a>
 
 </td>
