@@ -160,7 +160,7 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 
 <b>Universal Joint Kinematics</b><br>
 <a href="https://github.com/gregalado24/Universal_Joint.git">
-<img src="https://github.com/Jose-Rodriguez-22/Slider-Crank/blob/main/slider_crank%20motion.gif" width="220">
+<img src="https://github.com/gregalado24/Universal_Joint/blob/7749d85d1553d689220d355598d08d5c3fe3fbac/slider_crank%20motion.gif" width="220">
 </a>
 
 </td>
