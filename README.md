@@ -195,9 +195,11 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 </td>
 <td align="center">
 
-<b>Thin-Wall-simulation</b><br>
-<a href="https://github.com/Jose-Rodriguez-22/Thin-Wall">
-<img src="https://github.com/Jose-Rodriguez-22/Thin-Wall/blob/main/images/mesh.png" width="220">
+<b>Game: 'Multi Uni Deliveri' </b><br>
+<a href="https://dallascollegegames.itch.io/multi-uni-deliveri">
+<img width="629" height="498" alt="Screenshot 2026-03-11 100921" src="https://github.com/user-attachments/assets/b8eafb66-3857-4e6d-9d6c-e7b7ca567a9a" />
+
+
 </a>
 
 </td>
