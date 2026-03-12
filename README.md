@@ -141,8 +141,8 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 <td align="center">
 
 <b>Cam-Follower Mechanism</b><br>
-<a href="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism">
-<img src="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/motion/partial_shaft_motion.gif" width="220">
+<a href="https://github.com/gregalado24/CamFollower_Mechanism.git">
+<img src="https://github.com/user-attachments/assets/37ee64d1-dca7-40f0-8aa8-579afce7c19c" width="220">
 </a>
 
 </td>
