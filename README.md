@@ -45,8 +45,11 @@ My portfolio demonstrates knowledge in parametric CAD modeling and asset creatio
 📍 Dallas, Texas  
 📫 Here is my contact information: 
          -  📧e3363384@student.dcccd.edu
-         - [![linkedin](https://linkedin-github-readme.onrender.com/api/render/Gregory%20Regalado-Jimenez/Mechanical%20Designer%20and%20Game%20Developer/Indie%20Game%20Developer/Dallas%20College/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5635AQEsRpDHixbWcQ%2Fprofile-framedphoto-shrink_400_400%2FB56ZbHGTklH4Ac-%2F0%2F1747097041722%3Fe%3D1773882000%26v%3Dbeta%26t%3DbJf9kiS2XTtTQYw3cAuivynpfInj9p4yOp-AaTRyG8U)](www.linkedin.com/in/gregory-regalado-jimenez-098772260)
-   
+   <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70px"/>
+  <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="100"/>
+    
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" height="200"/>
 </div>
