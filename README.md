@@ -28,22 +28,23 @@
    
 <h1>
    
-<h2 align="center">Mechanical Design Engineer | Parametric CAD | Mechanism Simulation | Additive Manufacturing | Virtual Environment Designer | 3-D Asset Designer </h2>
+<h2 align="center">Mechanical Designer | Parametric CAD | Mechanism Simulation | Manufacturing | Virtual Environment Designer | 3-D Asset Designer </h2>
 
 <p align="center">
-Additive/Custom Manufacturing | Parametric CAD | FEA | Level Design & World Building | Video Game 3-D Model Creation 
+Additive/Custom Manufacturing | Parametric CAD | Level Design & World Building | Video Game 3-D Model Creation 
 </p>
 
 ---
    
 ## 🚀 About Me
    - 🔭 _I am an Engineering and Game Development student at **Dallas College** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ Parametric CAD systems (SolidWorks, Inventor) -
+ Multiple Game Engines (Unreal Engine 4 & 5, Godot, Unity)-
  Structural design -
  Wire Arc Additive Manufacturing (WAAM) -
  Laser Powder Bed Fusion (LPBF) -
- Simulation-driven optimization (ANSYS) -
- Parametric CAD systems (SolidWorks, Inventor) -
- Multiple Game Engines (Unreal Engine 4 & 5, Godot, Unity)
+ Simulation-driven optimization (ANSYS) - 
+ 
 
 My portfolio demonstrates experience in parametric CAD modeling, mechanism design, motion simulation, engineering analysis using PTC Creo and ANSYS, and Level Design and World Building using multiple game engines.
 
