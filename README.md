@@ -134,7 +134,7 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 
 ---
 
-## Featured Mechanical Design Projects
+## Design Projects
 
 <table>
 <tr>
