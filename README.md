@@ -22,34 +22,30 @@
    
 <h1>
    
-<h2 align="center">Mechanical Designer | Virtual Environment Modeler | 3-D Asset Designer </h2>
+<h2 align="center">Mechanical Design Engineer | Parametric CAD | Mechanism Simulation | Additive Manufacturing</h2>
 
 <p align="center">
-Custom Parts | Level Design and World Building | Asset Creation
+Research Assistant | Additive Manufacturing | Parametric CAD | FEA
 </p>
 
 ---
    
 ## 🚀 About Me
-   - 🔭 _I'm an Indie Game Developer and Game Design student at **Dallas College** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p align="center">
- Unreal Engine 4 & 5 -
- Blender -
- Godot -
- Unity -
- Parametric CAD (Autodesk Inventor)
+   - 🔭 _I am an engineering student and Research Assistant at **The University of Texas at Dallas** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ Aerospace structural design -
+ Wire Arc Additive Manufacturing (WAAM) -
+ Laser Powder Bed Fusion (LPBF) -
+ Simulation-driven optimization (ANSYS) -
+ Parametric CAD systems (Creo, SolidWorks, Inventor)
 
-My portfolio demonstrates knowledge in parametric CAD modeling and asset creation using game engines and blender
+My portfolio demonstrates experience in parametric CAD modeling, mechanism design, motion simulation, and engineering analysis using PTC Creo and ANSYS.
 
 ## 📬 Contact
 📍 Dallas, Texas  
 📫 Here is my contact information: 
-         -  📧e3363384@student.dcccd.edu
-   <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70px"/>
-  <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="100"/>
-    
+         -  📧jmr180004@utdallas.edu
+         - [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-rodriguez-/) 
+   
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" height="200"/>
 </div>
@@ -105,4 +101,106 @@ My portfolio demonstrates knowledge in parametric CAD modeling and asset creatio
 </p>
 
 <h2 align="center">Manufacturing & Fabrication</h2>
-... (110 lines left)
+<p align="center">
+  <strong> Wire Arc Additive Manufacturing (WAAM)</strong> • 
+<strong>LPBF Metal Printing</strong> • 
+<strong>3D Printing</strong> • 
+<strong>Design for Manufacturing (DFM)</strong> • 
+   <strong>GD&T Fundamentals</strong>  
+</p>
+
+---
+
+## Featured Mechanical Design Projects
+
+<table>
+<tr>
+<td align="center">
+
+<b>Cam-Follower Mechanism</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism">
+<img src="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/motion/partial_shaft_motion.gif" width="220">
+</a>
+
+</td>
+
+<td align="center">
+
+<b>Spur Gear Train</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism">
+<img src="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/gear_motion.gif" width="220">
+</a>
+
+</td>
+
+<td align="center">
+
+<b>Universal Joint Kinematics</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Universal-Joint">
+<img src="https://github.com/Jose-Rodriguez-22/Slider-Crank/blob/main/slider_crank%20motion.gif" width="220">
+</a>
+
+</td>
+
+<td align="center">
+
+<b>Nutcracker-Mechanism-Assembly</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Nutcracker-Mechanism-Assembly">
+<img src="https://github.com/Jose-Rodriguez-22/Nutcracker-Mechanism-Assembly/blob/main/nutcracker_motion.gif" width="220">
+</a>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>Additive Manufacturing Heat Sink</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing">
+<img src="https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing/blob/main/mesh.png" width="220">
+</a>
+
+</td>
+<td align="center">
+
+<b>On-site-Manufacturing Bracket</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/-On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM">
+<img src="https://github.com/Jose-Rodriguez-22/-On-Site-Additive-Manufacturing-Repair-of-Steel-Bracket-Using-WAAM/blob/main/images/bracket%20AM/total%20deformation%20side.png" width="220">
+</a>
+
+</td>
+<td align="center">
+
+<b>Thin-Wall-simulation</b><br>
+<a href="https://github.com/Jose-Rodriguez-22/Thin-Wall">
+<img src="https://github.com/Jose-Rodriguez-22/Thin-Wall/blob/main/images/mesh.png" width="220">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+### 🔥 My Stats:
+
+<div id="stats"
+  <a href="https://github.com/Jose-Rodriguez-22/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jose-Rodriguez-22&show_icons=true&theme=synthwave" />
+  </a>
+  <a href="https://github.com/Jose-Rodriguez-22/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Rodriguez-22&theme=synthwave&layout=compact" />
+  </a>
+  
+ <a href="https://git.io/streak-stats">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jose-Rodriguez-22&theme=synthwave&border_radius=4.6&date_format=%5BY.%5Dn.j"/>
+</a>
+
+   <a href="https://github.com/Jose-Rodriguez-22/github-readme-stats">
+   <!--START_SECTION:waka-->
+     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jose-Rodriguez-22"/>
+     <!--END_SECTION:waka-->
+   </a>
+</div>
+
+### ✍️ Blog Posts :
