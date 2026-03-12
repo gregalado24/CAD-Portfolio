@@ -150,7 +150,7 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 <td align="center">
 
 <b>Spur Gear Train</b><br>
-<a href="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism">
+<a href="https://github.com/gregalado24/SpurGear_Mechanism.git">
 <img src="https://github.com/Jose-Rodriguez-22/Spur-Gear-Train-Mechanism/blob/main/gear_motion.gif" width="220">
 </a>
 
