@@ -7,11 +7,11 @@
 
 <div id="badges">
    <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30px"/>
+   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30px"/> 
   <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <img src="https://komarev.com/ghpvc/?username=gregalado24&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=gregalado24&style=flat-square&color=blueviolet" alt=""/>
       </p>
 </div>
 
@@ -36,24 +36,24 @@ Additive/Custom Manufacturing | Parametric CAD | FEA | Level Design & World Buil
 ---
    
 ## 🚀 About Me
-   - 🔭 _I am an engineering student and Research Assistant at **The University of Texas at Dallas** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- Aerospace structural design -
+   - 🔭 _I am an Engineering and Game Development student at **Dallas College** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ Structural design -
  Wire Arc Additive Manufacturing (WAAM) -
  Laser Powder Bed Fusion (LPBF) -
  Simulation-driven optimization (ANSYS) -
- Parametric CAD systems (Creo, SolidWorks, Inventor)
+ Parametric CAD systems (SolidWorks, Inventor) -
+ Multiple Game Engines (Unreal Engine 4 & 5, Godot, Unity)
 
-My portfolio demonstrates experience in parametric CAD modeling, mechanism design, motion simulation, and engineering analysis using PTC Creo and ANSYS.
+My portfolio demonstrates experience in parametric CAD modeling, mechanism design, motion simulation, engineering analysis using PTC Creo and ANSYS, and Level Design and World Building using multiple game engines.
 
 ## 📬 Contact
 📍 Dallas, Texas  
 📫 Here is my contact information: 
-         -  📧jmr180004@utdallas.edu
-         - [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-rodriguez-/) 
-   
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" height="200"/>
-</div>
+         -  📧e3363384@student.dcccd.edu
+         - <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70px"/>
+  <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="100"/> 
   
 ---   
 <h2 align="center">🛠 CAD & Design Software</h2>
@@ -87,6 +87,20 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
       <strong>Ansys</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://fontmeme.com/images/unreal-engine-logo-font.png" width="80"/><br/>
+      <strong>Unreal Engine 4 & 5</strong>
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/G/godot-logo-F3E69DFE8D-seeklogo.com.png" width="80"/><br/>
+      <strong>Godot</strong>
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/67/eb/57/67eb57d5444fdf48addcfe669bb4a31b.jpg" width="80"/><br/>
+      <strong>Unity</strong>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -94,7 +108,10 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
   <strong>SolidWorks</strong> • 
   <strong>Autodesk Inventor</strong> • 
   <strong>AutoCAD</strong> • 
-  <strong>FreeCAD</strong>
+  <strong>FreeCAD</strong> •
+  <strong>Unreal Engine</strong> •
+  <strong>Godot</strong> •
+  <strong>Unity</strong> •
 </p>
 
 <h2 align="center">Simulation & Analysis</h2>
@@ -111,7 +128,8 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 <strong>LPBF Metal Printing</strong> • 
 <strong>3D Printing</strong> • 
 <strong>Design for Manufacturing (DFM)</strong> • 
-   <strong>GD&T Fundamentals</strong>  
+   <strong>GD&T Fundamentals</strong> •
+  <strong>Wind Turbine Components</strong>
 </p>
 
 ---
