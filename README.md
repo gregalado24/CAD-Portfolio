@@ -180,8 +180,8 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 <td align="center">
 
 <b>Additive Manufacturing Heat Sink</b><br>
-<a href="https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing">
-<img src="https://github.com/Jose-Rodriguez-22/Rapid-Prototyping-Application-of-Additive-Manufacturing/blob/main/mesh.png" width="220">
+<a href="https://github.com/gregalado24/Additive-Manufacturing.git">
+<img src="https://github.com/gregalado24/Additive-Manufacturing/blob/df08051fc77ecb3aa9f7f69ec7c6e90e49365da7/mesh.png" width="220">
 </a>
 
 </td>
