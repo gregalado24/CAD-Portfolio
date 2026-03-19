@@ -142,64 +142,6 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 <tr>
 <td align="center">
 
-<b>Cam-Follower Mechanism</b><br>
-<a href="https://github.com/gregalado24/CamFollower_Mechanism.git">
-<img src="https://github.com/user-attachments/assets/37ee64d1-dca7-40f0-8aa8-579afce7c19c" width="220">
-</a>
-
-</td>
-
-<td align="center">
-
-<b>Spur Gear Train</b><br>
-<a href="https://github.com/gregalado24/SpurGear_Mechanism.git">
-<img src="https://github.com/gregalado24/SpurGear_Mechanism/blob/800b3af00071c3388e3bd4c908c0b898e9a95614/exploded_view.gif" width="220">
-</a>
-
-</td>
-
-<td align="center">
-
-<b>Universal Joint Kinematics</b><br>
-<a href="https://github.com/gregalado24/Universal_Joint.git">
-<img src="https://github.com/gregalado24/Universal_Joint/blob/7749d85d1553d689220d355598d08d5c3fe3fbac/slider_crank%20motion.gif" width="220">
-</a>
-
-</td>
-</tr>
-
-<tr>
-
-<td align="center">
-
-<b>Nutcracker-Mechanism-Assembly</b><br>
-<a href="https://github.com/gregalado24/Nutcracker.git">
-<img src="https://github.com/gregalado24/Nutcracker/blob/6dba5f710b1a7565f1575cfaa840235eb6b4f65e/nutcracker_motion.gif" width="220">
-</a>
-
-</td>
-
-<td align="center">
-
-<b>Additive Manufacturing Heat Sink</b><br>
-<a href="https://github.com/gregalado24/Additive-Manufacturing.git">
-<img src="https://github.com/gregalado24/Additive-Manufacturing/blob/df08051fc77ecb3aa9f7f69ec7c6e90e49365da7/mesh.png" width="220">
-</a>
-
-</td>
-<td align="center">
-
-<b>On-site-Manufacturing Bracket</b><br>
-<a href="https://github.com/gregalado24/Repair-of-Steel-Bracket.git">
-<img src="https://github.com/gregalado24/Repair-of-Steel-Bracket/blob/7a2f016cdf3254d325407a66e818068ae51b8075/Images/Bracket%20AM/total%20deformation%20side.png" width="220">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
 <b>Game: 'Multi Uni Deliveri' </b><br>
 <a href="https://dallascollegegames.itch.io/multi-uni-deliveri">
 <img width="629" height="498" alt="Screenshot 2026-03-11 100921" src="https://github.com/user-attachments/assets/b8eafb66-3857-4e6d-9d6c-e7b7ca567a9a" />
@@ -224,6 +166,44 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 <b>Wind Turbine Parts</b><br>
 <a href="https://github.com/gregalado24/Turbine-Parts.git">
 <img width="2556" height="1369" alt="Part 4 - 39" src="https://github.com/user-attachments/assets/887bae4d-6ef0-4152-934c-ed7509106d64" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>Nutcracker-Mechanism-Assembly</b><br>
+<a href="https://github.com/gregalado24/Nutcracker.git">
+<img src="https://github.com/gregalado24/Nutcracker/blob/6dba5f710b1a7565f1575cfaa840235eb6b4f65e/nutcracker_motion.gif" width="220">
+</a>
+
+</td>
+<td align="center">
+<b>Cam-Follower Mechanism</b><br>
+<a href="https://github.com/gregalado24/CamFollower_Mechanism.git">
+<img src="https://github.com/user-attachments/assets/37ee64d1-dca7-40f0-8aa8-579afce7c19c" width="220">
+</a>
+
+</td>
+
+<td align="center">
+
+<b>Spur Gear Train</b><br>
+<a href="https://github.com/gregalado24/SpurGear_Mechanism.git">
+<img src="https://github.com/gregalado24/SpurGear_Mechanism/blob/800b3af00071c3388e3bd4c908c0b898e9a95614/exploded_view.gif" width="220">
+</a>
+
+</td>
+
+<td align="center">
+
+<b>Universal Joint Kinematics</b><br>
+<a href="https://github.com/gregalado24/Universal_Joint.git">
+<img src="https://github.com/gregalado24/Universal_Joint/blob/7749d85d1553d689220d355598d08d5c3fe3fbac/slider_crank%20motion.gif" width="220">
+
 
 
 </tr>
